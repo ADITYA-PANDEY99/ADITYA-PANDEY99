@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github_profile_banner.png" alt="Aditya Pandey Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.3);" />
+  <img src="github_profile_banner.png" alt="Aditya Pandey Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.4);" />
 </div>
 
 <br/>
@@ -7,66 +7,83 @@
 <div align="center">
 
 # ⚡ Hey there, I'm Aditya Pandey! ⚡
-### **AI Engineer | Full-Stack Developer | System & Optimization Architect**
+### 🚀 **AI Engineer | Full-Stack Developer | System & Optimization Architect**
 
-🧑‍💻 Specializing in **Agentic AI systems, Operations Research solvers, and Localized Generative Applications**.  
-🎓 Built production-grade software for **FOSSEE, IIT Bombay (eSim Fellowship)** and high-impact AI systems.  
-🚀 Committed to writing clean, SOLID, and highly scalable code.
+🧑‍💻 Specializing in **Agentic AI Systems, Operations Research Solvers, and Localized Generative Applications**.  
+🎓 Built production-grade software for **FOSSEE, IIT Bombay (eSim Fellowship)** and high-impact AI architectures.  
+💎 Committed to writing clean, SOLID, test-driven, and highly scalable software.
 
----
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/ADITYA-PANDEY99?label=Followers&style=for-the-badge&color=007ACC&logo=github)](https://github.com/ADITYA-PANDEY99)
-[![GitHub stars](https://img.shields.io/github/stars/ADITYA-PANDEY99/sahayak-fd-advisor?style=for-the-badge&color=FFD700&logo=github)](https://github.com/ADITYA-PANDEY99/sahayak-fd-advisor)
+[![GitHub stars](https://img.shields.io/github/stars/ADITYA-PANDEY99/esim-ai-assistant?style=for-the-badge&color=FFD700&logo=github)](https://github.com/ADITYA-PANDEY99/esim-ai-assistant)
 [![Mail](https://img.shields.io/badge/Email-adityapandey779922%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapandey779922@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ The Tech Ecosystem
+## 🛠️ Tech Ecosystem & Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 | Area | Technologies |
-|:---|:---|
+| :--- | :--- |
 | **Languages** | `Python`, `TypeScript`, `JavaScript`, `SQL`, `HTML5/CSS3` |
-| **Backend & Solvers** | `FastAPI`, `Flask`, `FastAPI ASGI`, `SQLAlchemy`, `Alembic`, `Linear Programming Solvers` |
-| **Frontend UI** | `Next.js 15`, `React 19`, `Tailwind CSS`, `Zustand`, `Framer Motion`, `Streamlit`, `Chart.js` |
-| **Agentic AI** | `Google Gemini 1.5 Pro API`, `Observe-Plan-Act Loops`, `Grounding & Verification Guards` |
-| **Systems & DevOps** | `Git`, `Docker`, `Windows winreg`, `winget`, `Chocolatey`, `Shell Scripting`, `Vercel`, `Render` |
+| **Backend & Solvers** | `FastAPI`, `Flask`, `SQLAlchemy`, `Alembic`, `Linear Programming Solvers` |
+| **Frontend UI** | `Next.js 15`, `React 19`, `Tailwind CSS`, `Zustand`, `Framer Motion`, `Streamlit` |
+| **Agentic AI** | `Google Gemini API`, `Observe-Plan-Act Loops`, `Grounding & Hallucination Verification` |
+| **Systems & DevOps** | `Git`, `Docker`, `Windows Systems (winreg)`, `winget`, `Chocolatey`, `Vercel`, `Render` |
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Public Repositories
 
-### 1. 🌊 [KumbhForce AI](https://github.com/ADITYA-PANDEY99/KumbhForce-AI)
-> **Synchronizing humanity at scale: Autonomous volunteer coordination and spatial intelligence.**
-* **What it does:** An operations intelligence platform designed to manage volunteer logistics for the Mahakumbh. Features a digital twin, a workforce optimizer built on a linear program solver matching volunteers by proximity & skillsets, and an AI Operations Copilot with routing logic.
-* **Tech Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS, FastAPI, Python, PostgreSQL/SQLite, Alembic, Linear Solvers.
-* **Aesthetics:** Styled with a premium **Dark Aurora** responsive design and interactive capacity forecasting SVG trends.
+### 1. 🤖 [AI Email Response System](https://github.com/ADITYA-PANDEY99/ai-email-response-system)
+> **Automated, intelligent email draft generation and contextual response agent.**
+- **Overview:** Autonomous email processing system leveraging LLMs to analyze incoming communications, categorize intent, and draft context-aware, highly personalized responses.
+- **Tech Stack:** `Python`, `FastAPI`, `Google Gemini API`, `LLM Agent Workflows`.
 
-### 2. 🩺 [Clinician AI Discharge Summary Agent](https://github.com/ADITYA-PANDEY99/discharge-summary-agent)
-> **An agentic, safety-first clinical assistant prioritizing safety & factual grounding over completeness.**
-* **What it does:** Automates the drafting of clinical discharge summaries from raw patient PDFs. Employs a custom *Observe-Plan-Act-Evaluate-Re-plan* loop, deterministically reconciles medications, and runs a hallucination guard to block and flag any ungrounded assertions.
-* **Tech Stack:** Streamlit, Python, Pytest, agent architectures, memory feedback systems (94.2% edit distance reduction over iterative rounds).
+### 2. 📊 [CSV CRM Importer](https://github.com/ADITYA-PANDEY99/csv-crm-importer)
+> **High-throughput CSV data ingestion and normalization pipeline for CRM platforms.**
+- **Overview:** Robust data pipeline designed to parse, validate, deduplicate, and ingest bulk customer relationship data into CRM schemas with real-time error logging and schema mapping.
+- **Tech Stack:** `Python`, `TypeScript`, `React`, `FastAPI`, `SQLAlchemy`.
 
-### 3. 🪙 [Sahayak FD Advisor](https://github.com/ADITYA-PANDEY99/sahayak-fd-advisor)
-> **Generative AI Fixed Deposit Advisor democratizing financial literacy for rural Bharat.**
-* **What it does:** Conversational agent ("Ramesh Bhaiya") adapting tone and culture to regional dialects (Hindi, Bhojpuri, Marathi). Incorporates goal splitting ladders and DICGC trust engines.
-* **Tech Stack:** Python, Flask, Google Gemini 1.5 Pro API, Chart.js with custom Base64 geometric bank brandmarks, Glassmorphism UI theme.
+### 3. ⚡ [eSim AI Assistant](https://github.com/ADITYA-PANDEY99/esim-ai-assistant)
+> **AI Copilot for Open-Source Circuit Simulation and EDA Software.**
+- **Overview:** Specialized AI assistant designed to streamline circuit simulation workflows, generate EDA scripts, and assist engineers using eSim & ngspice.
+- **Tech Stack:** `Python`, `Gemini API`, `Streamlit`, `eSim EDA Integration`.
 
-### 🔌 [eSim Nexus](https://github.com/ADITYA-PANDEY99/esim-nexus) *(IIT Bombay Fellowship Task)*
-> **Declarative, plugin-driven tool ecosystem manager for open-source EDA software on Windows.**
-* **What it does:** Solves "dependency hell" by dynamically loading tool installation plugins (ngspice, KiCad, OpenModelica, GHDL), constructing a Directed Acyclic Graph (DAG) for cycle detection, sorting installations topologically, and offering a Rich terminal UI.
-* **Tech Stack:** Python, Click, Rich, winreg, TOML manifests, winget & Chocolatey installer strategies.
+### 4. 🔬 [FOSSEE Osdag SFD BMD](https://github.com/ADITYA-PANDEY99/fossee-osdag-sfd-bmd) *(IIT Bombay Fellowship Project)*
+> **Shear Force & Bending Moment Diagram Analysis Engine for Osdag Structural Design.**
+- **Overview:** Developed for the FOSSEE Project at IIT Bombay. Generates precise SFD/BMD analytical plots and structural engineering calculation reports.
+- **Tech Stack:** `Python`, `PyQt / GUI`, `NumPy`, `Matplotlib`, `Structural Mechanics Solvers`.
+
+### 5. 🛡️ [Game of Cybersecurity](https://github.com/ADITYA-PANDEY99/Game_Of_CyberSecurity)
+> **Interactive cybersecurity learning and gamified threat defense simulator.**
+- **Overview:** Educational platform showcasing core security principles, attack/defense vector simulations, and interactive vulnerability challenges.
+- **Tech Stack:** `Python`, `JavaScript`, `Security Simulation Frameworks`.
 
 ---
 
-## 📊 Git & Coding Activity
+## 📊 Git & Contribution Activity
 
 <div align="center">
 
-| **GitHub Statistics** | **Most Used Languages** |
-|:---:|:---:|
-| [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA-PANDEY99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-PANDEY99&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| **GitHub Statistics** | **Top Languages** |
+| :---: | :---: |
+| [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADITYA-PANDEY99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-PANDEY99&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) |
 
 </div>
 
@@ -80,8 +97,8 @@
 
 <div align="center">
   <h3>🤝 Let's Connect!</h3>
-  <p>I am always looking for challenging software engineering roles, research opportunities in AI, and collaborating on open source projects.</p>
-  <p>📬 Reach me at <b>adityapandey779922@gmail.com</b></p>
-  
+  <p>I am always open to discussing software engineering roles, AI research collaborations, and open-source innovations.</p>
+  <p>📬 Reach me at: <b>adityapandey779922@gmail.com</b></p>
+  <br/>
   <sub>Designed with ❤️ by Antigravity AI</sub>
 </div>
